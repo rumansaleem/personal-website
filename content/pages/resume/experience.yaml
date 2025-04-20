@@ -1,0 +1,66 @@
+- title: InfoEdge (India) Ltd | Jeevansathi
+  subtitle: Lead Engineer
+  timeline: 2022 - Current
+  duration: 2yr
+  show: true
+  stack: Java, Spring Boot, Apache Kafka, Debezium, MySQL, Next.js, TypeScript, Redux, PromQL
+  details:
+    - Strategized and executed detailed technical roadmaps for profile and photo modules; mentored a team of 3.
+    - Enhanced the automatic photo screening algorithm to improve efficiency from 68% to 82%, resulting in a 44% reduction in manual screening workload and increasing overall operational efficiency significantly.
+    - Optimized the photo pre-processing and the automatic screening system by leveraging <b>Apache Kafka</b> for <b>event streaming</b>; reduced the screening time by <b>~96%</b>, from 30-60 mins to 1-2 min.
+    - Developed a custom algorithm to dynamically crop photos for different use cases, optimizing face coverage and dimensions; improved platform photo quality.
+    - Led the containerization and migration of 9 microservices deployments from VMs to Kubernetes.
+    - Led a team of 4 developers for the website revamp using Next.js, React, and TypeScript, ensuring high-quality coding standards through detailed code reviews and design guidance; integrated CI/CD pipelines with GitLab for ESLint and TypeScript error checks.
+    - Implemented a new monitoring and alerting ecosystem using Grafana and Prometheus; integrated Prometheus with key metrics across all Java microservices utilizing Micrometer for custom metrics.
+    - Designed and developed the profile impressions tracking system, handling <b>~2.4 Cr</b> impressions/day.
+    - Implemented <b>transactional outbox pattern</b> to publish <b>~20-25 Lac</b> profile connect events/day to calculate profile rating.
+    - Conducted a hands-on session on Apache Kafka to help integrate Kafka and event streaming in existing systems.
+
+- title: InfoEdge (India) Ltd | Jeevansathi
+  subtitle: Senior Software Engineer
+  timeline: 2021 - 2022
+  duration: 1yr
+  show: true
+  stack: Java, Spring Boot, RabbitMQ, TypeScript, JavaScript, React, Webpack
+  details:
+    - Enhanced post-payment experience by asynchronously handling the post-payment tasks - service activations, fulfillments, and invoicing with automatic reconcilation.
+    - Helped teams adopt tools like <b>ESLint</b> & <b>TypeScript</b> to maintain high quality & robust code and increase productivity.
+    - Created a foundational <b>React</b> Multi-page React project with custom webpack configuration for gradual migration to React.
+
+- title: InfoEdge (India) Ltd | Jeevansathi
+  subtitle: Software Engineer
+  timeline: 2020 - 2021
+  duration: 8mo
+  show: true
+  stack: Nginx, React, CSS, HTML, PHP, Symfony, Jenkins
+  details: 
+    - Extracted a coupled React SPA from a server-rendered monolith application; worked closely with TechOps to update a huge Nginx condifuration to redistribute traffic through frontend gateway.
+    - Introduced front gateway to navigate across different frontend repositories, enabling easier and controlled migrations.
+    - Collaborated with product and backend teams to understand requirements and integrate features, delivering high quality features with zero production bugs.
+    - Developed a tricky parallax animation on the feature section on homepage.
+
+- title: Pipeline Information Management System
+  subtitle: Freelance Frontend Developer
+  timeline: 2020 - 2020
+  duration: 3mo
+  show: true
+  details:
+    - Developed a frontend-heavy Pipeline Information Management system for a freelancing agency.
+    - Utilized Angular 9 and TailwindCSS, employing reactive state management with NgRx and RxJs.
+    - Created a feature-rich printable map using Leaflet to display various information related to the gas pipeline network across the country.
+    - Engineered a system to maintain a variety of map layers, allowing users to interactively show or hide them individually or as groups.
+    - Designed and developed a dynamic query builder to query different types of records on the maps.
+    - Implemented mocks and actual APIs with swappable implementations.
+
+- title: Pure Media Imagination
+  subtitle: Web Developer (Intern)
+  timeline: June 2017 - July 2017
+  show: false
+  link:
+    icon: link-2
+    target: https://thepuremedia.com
+    text: thepuremedia.com
+  details:
+    - developed a marketing website for media agency 'Pure Media Imagination'.
+    - customized an HTML template to better suit their needs and enhance UI effects.
+    - developed admin only area to manage their portfolio, users (admin & super admin), change password etc.

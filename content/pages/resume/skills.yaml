@@ -1,0 +1,46 @@
+- header: Back-end Technologies
+  list:
+    - Java 
+    - Spring Boot
+    - PHP
+    - Laravel
+    - Next.js
+    - Express
+    - Nuxt 
+    - Python
+    - Rust
+- header: Front-end Technologies
+  list:
+    - JavaScript/TypeScript 
+    - React 
+    - Vue.js 
+    - Tailwind CSS
+    - Angular 
+    - GraphQL
+
+- header: Databases & Messaging
+  list:
+    - MySQL
+    - Redis
+    - Aerospike
+    - MongoDB
+    - Apache Kafka
+    - RabbitMQ
+
+- header: Paradigms
+  list:     
+    - Event Driven Architecture
+    - Clean Architecture
+    - Domain Driven Design
+    - Test Driven Development
+    - Reactive Programming
+
+- header: Miscellaneous
+  list: 
+    - AWS S3
+    - Nginx
+    - Docker
+    - Kubernetes
+    - Git
+    - Bash
+

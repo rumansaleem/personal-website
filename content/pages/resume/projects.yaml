@@ -1,0 +1,64 @@
+- title: DUCS Office Portal
+  technologies: Laravel, PHPUnit, AlpineJS, Laravel Livewire, TailwindCSS
+  show: true
+  links:
+    - icon: code
+      target: https://github.com/ducs-office/ducs-office-automation
+      text: github.com/ducs-office/ducs-office-automation
+    - icon: book-open
+      target: https://ducs-office.github.io/ducs-office-automation-docs/docs/getting-started/
+      text: ducs-office.github.io/ducs-office-automation-docs
+  details:
+    - Led a team of 3 as part of the M.Sc curriculum's major project.
+    - Designed and developed an official portal for the department's office staff, research scholars, and supervisors.
+    - Enabled office staff to collect and manage teaching records with deadlines.
+    - Facilitated supervisors in managing their scholars, who keep their work updated on the portal.
+    - Implemented flexible roles and permissions for robust authorization.
+    - Followed Test-Driven Development (TDD) with a total of 573 test cases.
+
+- title: Sankalan Portal
+  technologies: Laravel, PHPUnit, Vue.js, Tailwind CSS
+  show: true
+  links:
+    - icon: code
+      target: https://github.com/csdu/sankalan-portal
+      text: github.com/csdu/sankalan-portal
+    # - icon: link-2
+    #   target: https://sankalan-demo.herokuapp.com
+    #   text: sankalan-demo.herokuapp.com
+
+  details:
+    - Designed and developed a website for the department's annual technical festival.
+    - Implemented an online registration system, quiz management, and automated scoring.
+    - Followed TDD and Continuous Integration, writing automated feature tests.
+    - Managed deployment with SSL certificates and Continuous Deployment.
+
+- title: Buffer Cache Simulator
+  technologies: Vue.js, Tailwind CSS
+  show: false
+  links:
+    - icon: code
+      target: https://github.com/rumansaleem/buffercache-getblk
+      text: github.com/rumansaleem/buffercache-getblk
+    - icon: link-2
+      target: https://rumansaleem.github.io/buffercache-getblk
+      text: rumansaleem.github.io/buffercache-getblk
+  details:
+    - built a web based simulator to help understand the working of buffer cache's getblk algorithm as per the UNIX System V.
+    - used <em>Vue</em> to render data driven visuals.
+    - used <em>Vuex</em> store for state management.
+
+- title: Social Campus
+  technologies: Laravel, jQuery, Bootstrap
+  show: false
+  links:
+    - icon: code
+      target: https://github.com/rumansaleem/SocialCampus
+      text: github.com/rumansaleem/SocialCampus
+    - icon: link-2
+      target: https://social-campus.herokuapp.com
+      text: social-campus.herokuapp.com
+  details:
+    - designed and developed social networking website for college students that featured real-time messaging, post sharing, comments.
+    - real-time messaging incorporated using an open source socket server and redis pub/sub.
+    - This project was done under a summer internship programme (ELITE).
