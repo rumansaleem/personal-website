@@ -107,7 +107,7 @@ Experienced Full-Stack Software Engineer with nearly 4 years of expertise in bui
   ---
   company: Pipeline Information Management System
   title: Freelance Frontend Developer
-  timeline: 2020
+  timeline: '2020'
   duration: 3mo
   show: false
   ---
@@ -124,7 +124,7 @@ Experienced Full-Stack Software Engineer with nearly 4 years of expertise in bui
   company: Pure Media Imagination
   title: Web Developer (Intern)
   duration: 3mo
-  timeline: 2017
+  timeline: '2017'
   show: false
   ---
   - developed a marketing website for media agency 'Pure Media Imagination'.

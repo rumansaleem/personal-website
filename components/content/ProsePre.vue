@@ -33,5 +33,4 @@ const props = defineProps({
     }
 })
 const hasOutput = props.meta?.includes('output') && props.language === 'html';
-console.log('hasOutput', hasOutput);
 </script>
