@@ -26,6 +26,9 @@
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
+    "@iconify-json/fe": "^1.2.2",
+    "@iconify-json/ri": "^1.2.5",
+    "@iconify-json/uil": "^1.2.3",
     "feather-icons": "^4.29.2",
     "ipx": "^3.0.3"
   }
