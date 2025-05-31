@@ -14,7 +14,7 @@
         </li>
       </ul>
       <div class="space-y-4">
-        <ContentRenderer :value="about" class="space-y-4"/>
+        <ContentRenderer :value="about" class="md-content space-y-4"/>
       </div>
     </div>
 </template>

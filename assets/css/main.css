@@ -6,6 +6,19 @@
   --font-mono: 'Fira Mono', monospace;
 
   --font-weight-medium: 500;
+
+  /* Colors */
+  --color-primary-50: var(--color-cyan-50);
+  --color-primary-100: var(--color-cyan-100);
+  --color-primary-200: var(--color-cyan-200);
+  --color-primary-300: var(--color-cyan-300);
+  --color-primary-400: var(--color-cyan-400);
+  --color-primary-500: var(--color-cyan-500);
+  --color-primary-600: var(--color-cyan-600);
+  --color-primary-700: var(--color-cyan-700);
+  --color-primary-800: var(--color-cyan-800);
+  --color-primary-900: var(--color-cyan-900);
+  --color-primary-950: var(--color-cyan-950);
 }
 
 @layer base {
@@ -118,7 +131,7 @@
   }
 
   .md-content :not(h1,h2,h3,h4,h5,h6) a {
-    @apply text-teal-700;
+    @apply text-primary-700;
   }
   .md-content :not(h1,h2,h3,h4,h5,h6) a:hover,
   .md-content :not(h1,h2,h3,h4,h5,h6) a:focus {
@@ -183,7 +196,7 @@
   }
 
   .md-content blockquote {
-    @apply bg-gray-200 border-l-4 py-2 pr-2 pl-4 border-teal-600 rounded overflow-hidden my-6;
+    @apply bg-gray-200 border-l-4 py-2 pr-2 pl-4 border-primary-600 rounded overflow-hidden my-6;
   }
   .md-content blockquote > p {
     @apply mb-2;
@@ -195,6 +208,6 @@
   .md-content blockquote > h4,
   .md-content blockquote > h5,
   .md-content blockquote > h6 {
-    @apply text-sm uppercase font-bold text-teal-700 mb-2 mt-0;
+    @apply text-sm uppercase font-bold text-primary-700 mb-2 mt-0;
   }
 }

@@ -20,10 +20,10 @@ links:
     target: 'mailto:ruman63@gmail.com'
     color: hover:text-red-600
 ---
-Hello world! 👋 I'm Ruman Saleem ([@ruman_saleem](//twitter.com/ruman_saleem)), currently a Software Engineer at [Info Edge (India) Ltd](//infoedge.com ).
+Hello world! 👋 I'm Ruman Saleem, a passionate Software Engineer, currently working at [Vimeo.com, Inc.](//vimeo.com), ex - [Infoedge (Jeevansathi.com)](//jeevansathi.com).
 
-I am a passionate Software Developer. I love building beautiful user interfaces and solving complex problems with simpler code.
+I have 5 years of working experience with various programming languages and frameworks - Java, PHP, JS/TS, Laravel, Spring Boot, React, Vue. If you want to know more about my experiences you can check out my [work](/work).
 
-I have prior experience of about 3 years working with Laravel and some of JavaScript & CSS frameworks. If you want to know more about my experiences you can check out my [work](/work).
+I love to learn new technologies and explore new ideas. I am always looking for opportunities to grow and improve my skills. I enjoy working on challenging projects that push me to think outside the box.
 
-I love to speak about my technical experiences, feel free to reach out to me.
+Feel free to reach out to me on linkedin if you have any questions, suggestions, opportunities or just want to say hi!

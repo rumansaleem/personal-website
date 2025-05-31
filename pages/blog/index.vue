@@ -15,7 +15,7 @@
                 <h3 class="font-bold text-2xl mb-2"><a :href="`/blog/${post.slug}`" v-text="post.title" /></h3>
                 <ContentRenderer class="mb-3" :value="post.excerpt" />
                 <p>
-                    <a class="text-teal-700 hover:underline" :href="`/blog/${post.slug}`">Read More »</a>
+                    <a class="text-primary-700 hover:underline" :href="`/blog/${post.slug}`">Read More »</a>
                 </p>
             </article>
             <!-- To add a Pager -->

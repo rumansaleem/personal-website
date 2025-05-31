@@ -37,8 +37,8 @@
         right-0
         mb-6
         mr-6
-        bg-teal-700
-        hover:bg-teal-800
+        bg-primary-700
+        hover:bg-primary-800
         cursor-pointer
         text-white
         w-12
